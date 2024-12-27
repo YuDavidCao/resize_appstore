@@ -8,5 +8,5 @@ resize_image <option>
 ```
 
 ## Options
-"iphone" or "mobile" - Resize images for iPhone
+"iphone" or "mobile" - Resize images for iPhone \
 "ipad" or "tablet" - Resize images for iPad
